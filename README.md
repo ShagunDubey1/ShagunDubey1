@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shagun12) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ShagunDubey__) 
 
 [![Holopin Badge](https://holopin.me/shagundubey29)](https://www.holopin.io/@shagundubey29?verified=true#badges)
+[![Holopin Badges](https://holopin.me/shagundubey29)](https://www.holopin.io/@shagundubey29?verified=true#badges)
+
 
 
 # 💻 Tech Stack:
